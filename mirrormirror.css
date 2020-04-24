@@ -1,0 +1,15 @@
+#articles{
+    display: flex;
+}
+
+#redborder{
+    border: 1px solid red;
+    background-color: seashell;
+    width: 50%;
+}
+
+#blueborder{
+    border: 1px solid blue;
+    background-color: seashell;
+    width: 50%;
+}
